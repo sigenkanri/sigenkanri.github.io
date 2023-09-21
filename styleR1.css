@@ -1,0 +1,117 @@
+@charset "UTF-8";
+
+/*  rile 10  は　h1 のルール  */
+
+.rule10 {
+
+color: black;
+margin: 50px 50px 50px 50px; 
+line-height: 40px;
+font-size: 40px;
+}
+
+/*  rile 20  は　h2 のルール  */
+
+.rule20 {
+
+    color: black;
+    margin: 10px 50px 30px 50px; 
+    line-height: 40px;
+    font-size: 30px;
+    }
+
+
+    /*  rile 30  は　名前 のルール  */
+
+    .rule30 {
+
+        color: black;
+        margin: 10px 50px 30px 350px; 
+        line-height: 40px;
+        font-size: 20px;
+        }
+
+        /*  rile 40  は　章 のルール  */
+
+        .rule40 {
+    
+            color: black;
+            margin: 30px 50px 10px 50px; 
+            line-height: 40px;
+            font-size: 20px;
+            }
+
+            
+        /*  rile 50  は　節 のルール  */
+
+            .rule50 {
+        
+                color: black;
+                margin: 10px 50px 10px 50px; 
+                line-height: 40px;
+                font-size: 16px;
+                }
+
+                
+        /*  rile 1  は　本文 のルール  */
+
+        .rule1 {
+
+            color: black;
+            margin: 10px 50px 10px 50px; 
+            line-height: 30px;
+            font-size: 16px;
+            }
+               
+        /*  rile 2  は　作図 のルール  */
+
+.rule2 {
+
+    background-color: white;
+    background-position: 500px 80px;
+    line-height: 40px;
+    font-size: 20px;
+    padding: 0px;
+    margin-top: 30px;
+    margin-left: 50px;
+    
+}
+
+               
+        /*  rile 3  は　図のキャプション のルール  */
+
+.rule3 {
+
+    line-height: 5px;
+    font-size: 18px;
+    font-weight: bold;
+    padding: 0px;
+    margin-bottom: 60px;
+    margin-left: 100px;
+    
+}
+
+
+.rule4 {
+
+    line-height: 5px;
+    font-size: 18px;
+    font-weight: bold;
+    padding: 0px;
+    margin-top: 60px; 
+    margin-bottom: 20px;
+    margin-left: 100px;
+    
+}
+
+.rule5 {
+
+    line-height: 5px;
+    font-size: 18px;
+    font-weight: bold;
+    padding: 0px;
+    margin-top: 0px; 
+    margin-bottom: 60px;
+    margin-left: 100px;
+    
+}
